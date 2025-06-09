@@ -9,8 +9,8 @@ This project is designed to help you sink your teeth into real, actionable AIOps
 - 📦 Example use cases for applying AIOps in enterprise networks  
 - 🛠️ Tooling and scripts for data collection, anomaly detection, and automated remediation  
 - 📘 How-to guides and implementation walkthroughs  
-- 🚧 Preview access to the **AIOps Playground** (Coming Soon!)  
-- 🤖 Sneak peek of **Project ADAPT**: A multi-agent network troubleshooting system (Releasing this week)
+- 🚧 Information about access for the **AIOps Playground** (Coming Soon!)  
+- 🤖 Details for **Project ADAPT**: A multi-agent network troubleshooting system (Releasing this week)
 
 ## 🚀 Coming Soon
 
