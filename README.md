@@ -28,13 +28,21 @@ _**Update 6/20/25:** The slide deck from our presentation at Cisco Live US 2025 
 
 We're just getting started. Here's what’s on the way:
 
-- **🧪 AIOps Playground**  
-  On-demand lab resources that make it easy to spin up sample networks, trigger fault scenarios, build models for machine learning with Splunk and MLTK, and walk through step-by-step agentic workflows for fault diagnosis and remediation.  
-  _→ Initial labs and tutorials launching week of 6/16._
+- **🧪 AIOps Playground Lab**  
+  On-demand lab resources that make it easy to spin up sample networks, trigger fault scenarios, build models for machine learning with Splunk and MLTK, and walk through step-by-step agentic workflows for fault diagnosis and remediation.  Bring to life the scenarios we demonstrated in our session from Cisco Live US 2025.
+  _→ Remote labs and tutorials launching week of 7/7._
+
+- **🧪 Model-driven Telemetry and Machine Learning Lab**  
+  We'll be hosting instances of Scott's walk-in lab from Cisco Live 2024 with a super-detailed lab guide to help you explore the step-by-step process of configuration model-driven telemetry and machine-learning in Splunk. 
+  _→ Remote labs and tutorials launching week of 7/7._
 
 - **📈 Splunk MLTK Use Cases Tutorial**  
   Full-length walkthrough of setting up MLTK for anomaly detection. 
-  _→ Launching week of 6/16._
+  _→ Launching week of 6/23._
+
+- **📞 Model-driven Telemetry Concifugration Tutorial**  
+  Full-length walkthrough of setting up model-driven telemetry between Cisco network devices and Splunk
+  _→ Launching week of 6/23._
 
 - **📺 Cisco Live Presentation Recording**  
   The recording of "Exploring Practical AIOps Use Cases for Enterprise Networks with Splunk" from Cisco Live US 2025
