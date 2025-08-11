@@ -25,25 +25,25 @@ _**Update 6/30/25:** Complete video playlist added covering all components of en
 
 ##### 📺Video Playlist
 
-- **📺 [Install MLTK and View Incoming Telemetry](https://youtu.be/SPVXWvyKoWo)**
+- **📺 [1. Install MLTK and View Incoming Telemetry](https://youtu.be/SPVXWvyKoWo)**
   Video demonstrating how to download MLTK and view incoming telemetry from your network
-- **📺 [Forwarding Model Driven Telemetry to Splunk Preview](https://youtu.be/kVVMUnSktxo)**
+- **📺 [2. Forwarding Model Driven Telemetry to Splunk Preview](https://youtu.be/kVVMUnSktxo)**
   Video covering the components and configuration strategy to enable telemetry forwarding to splunk
-- **📺 [Telemetry to Splunk Demonstration](https://youtu.be/CoB7VB--aFo)**
+- **📺 [3. Telemetry to Splunk Demonstration](https://youtu.be/CoB7VB--aFo)**
   Complete walk-through of getting your telemetry from XR switches to Splunk
-- **📺 [Splunk Machine Learning Toolkit:  Extract Time Attributes](https://youtu.be/aiST5185XYM)**
+- **📺 [4. Splunk Machine Learning Toolkit:  Extract Time Attributes](https://youtu.be/aiST5185XYM)**
   Building out your machine learning model: Accounting for time perspective in your data stream
-- **📺 [Splunk Machine Learning Toolkit:  Split by Fields](https://youtu.be/tdXQx5OWl-g)**
+- **📺 [5. Splunk Machine Learning Toolkit:  Split by Fields](https://youtu.be/tdXQx5OWl-g)**
   Building out your machine learning model: Choosing the best features and attributes for your model
-- **📺 [Splunk Machine Learning Toolkit:  Algorithm Selection](https://youtu.be/WepZ5VYKWzU)**
+- **📺 [6. Splunk Machine Learning Toolkit:  Algorithm Selection](https://youtu.be/WepZ5VYKWzU)**
   Building out your machine learning model: Understanding how Algorithm selection happens in MLTK
-- **📺 [Outlier Tolerance Threshold Explained](https://youtu.be/ZcJH0oV1Hms)**
+- **📺 [7. Outlier Tolerance Threshold Explained](https://youtu.be/ZcJH0oV1Hms)**
   Building out your machine learning model: Fine tuning your model for anomaly sensitivity
-- **📺 [Splunk Machine Learning Toolkit:  Review Phase](https://youtu.be/wqOVZKPjUDg)**
+- **📺 [8. Splunk Machine Learning Toolkit:  Review Phase](https://youtu.be/wqOVZKPjUDg)**
   Reviewing the results of your model
-- **📺 [Splunk Machine Learning Toolkit: Operationalize Phase](https://youtu.be/d30dyape0V0)**
+- **📺 [9. Splunk Machine Learning Toolkit: Operationalize Phase](https://youtu.be/d30dyape0V0)**
   Deploying your machine learning model in alerts
-- **📺 [Telemetry Validation](https://youtu.be/tAGGMCRxKdA)**
+- **📺 [10. Telemetry Validation](https://youtu.be/tAGGMCRxKdA)**
   Validate whether all the components in the telemetry flow are operating
 
 ## 🚀 Coming Soon
@@ -52,19 +52,10 @@ We're just getting started. Here's what’s on the way:
 
 - **🧪 AIOps Playground Lab**
   On-demand lab resources that make it easy to spin up sample networks, trigger fault scenarios, build models for machine learning with Splunk and MLTK, and walk through step-by-step agentic workflows for fault diagnosis and remediation.  Bring to life the scenarios we demonstrated in our session from Cisco Live US 2025.
-  _→ Remote labs and tutorials launching week of 7/7._
+  _→ Remote labs launching in August._
 - **🧪 Model-driven Telemetry and Machine Learning Lab**
   We'll be hosting instances of Scott's walk-in lab from Cisco Live 2024 with a super-detailed lab guide to help you explore the step-by-step process of configuration model-driven telemetry and machine-learning in Splunk.
-  _→ Remote labs and tutorials launching week of 7/7._
-- **📈 Splunk MLTK Use Cases Tutorial**
-  Full-length walkthrough of setting up MLTK for anomaly detection.
-  _→ Launching week of 6/23._
-- **📞 Model-driven Telemetry Concifugration Tutorial**
-  Full-length walkthrough of setting up model-driven telemetry between Cisco network devices and Splunk
-  _→ Launching week of 6/23._
-- **📺 Cisco Live Presentation Recording**
-  The recording of "Exploring Practical AIOps Use Cases for Enterprise Networks with Splunk" from Cisco Live US 2025
-  _→ Available in early July._
+  _→ Remote labs and tutorials launching in August._
 
 ## 💬 Questions or Collaboration?
 
