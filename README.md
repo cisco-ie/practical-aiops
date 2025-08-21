@@ -62,9 +62,3 @@ We're just getting started. Here's what’s on the way:
 Reach out to **Jason Shoemaker** and **Scott Lake**:
 📫 [practical-aiops@cisco.com](mailto:practical-aiops@cisco.com)
 
----
-
-> _This repository is part of Cisco Live 2025's breakout session [BRKOPS-2256](https://www.ciscolive.com)._
-
-Stay tuned — we’ll be adding more use cases, open-source agents, and lab guides very soon.
-Let's build **YOU-driven AIOps** together.
