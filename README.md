@@ -1,6 +1,6 @@
 # Practical AIOps
 
-Welcome to **Practical AIOps** — a companion repository for the Cisco Live US 2025 session **BRKOPS-2256: Exploring Practical AIOps Use Cases for Enterprise Networks with Splunk**.
+Welcome to **Practical AIOps** — a companion repository for the Cisco Live US 2025 session **[BRKOPS-2256: Exploring Practical AIOps Use Cases for Enterprise Networks with Splunk](https://www.ciscolive.com/on-demand/on-demand-library.html?#/session/1750271988606001ziB7)**.
 
 This project is designed to help you sink your teeth into real, actionable AIOps capabilities that you can start applying **today**. We’re giving you the tools, templates, and tutorials to bring AIOps concepts to life inside your own environment — no vague theory, just practical, hands-on guidance.
 
