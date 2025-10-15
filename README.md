@@ -19,7 +19,7 @@ _**Update 6/30/25:** Complete video playlist added covering all components of en
 6/16/25: The initial release of Project ADAPT is now available! You can clone and start experimenting with it via http://cs.co/adapt-ai
 
 - **🧠 [Project ADAPT](http://cs.co/adapt-ai)** – AI-Driven Action Planner and Troubleshooter
-  A multi-agent system protoype designed to automate network fault diagnosis and mitigation workflows. Built to be extendable, explainable, and experiment-friendly.
+  A multi-agent system protoype designed to automate network fault diagnosis and mitigation workflows. Built to be extendable, explainable, and experiment-friendly.  Check out [our recorded demo](https://app.vidcast.io/share/a9f43543-c4ff-40aa-821a-6c4721bbe1d3).
 - **📺 [Cisco Live Presentation Deck](BRKOPS-2256_Practical-AIOps.pdf)**
   The slide deck for "Exploring Practical AIOps Use Cases for Enterprise Networks with Splunk" from Cisco Live US 2025
 
